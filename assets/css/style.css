@@ -40,7 +40,7 @@
   color: #18171c;
 }
 .main-header .navbar-nav > li > .nav-link span {
-  padding: 9px 20px;
+  padding: 9px 15px;
   border-radius: 30px;
 }
 .main-header .navbar-nav > li > .nav-link.active span {
@@ -111,6 +111,7 @@
   border-color: #18171c;
 }
 .px-btn.px-btn-theme2 {
+  
   background: #ff5a0e;
   border-color: #18171c;
   color: #18171c;
@@ -121,6 +122,16 @@
   color: #fff;
 }
 
+.px-btn.px-btn-theme2 img{
+  padding-right: 10px;
+  height: 15px;
+  width: 25px;
+}
+/* .px-btn.px-btn-theme2 a img:hover{
+  background: #18171c;
+  border-color: #18171c;
+  color: #fff;
+} */
 .bg-gray {
   background: rgba(247, 175, 36, 0.1);
 }
