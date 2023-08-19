@@ -127,11 +127,11 @@
   height: 15px;
   width: 25px;
 }
-/* .px-btn.px-btn-theme2 a img:hover{
+.px-btn.px-btn-theme2 img:hover{
   background: #18171c;
   border-color: #18171c;
   color: #fff;
-} */
+}
 .bg-gray {
   background: rgba(247, 175, 36, 0.1);
 }
