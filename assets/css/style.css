@@ -44,7 +44,7 @@
   border-radius: 30px;
 }
 .main-header .navbar-nav > li > .nav-link.active span {
-  background: #ff5a0e;
+  background: linear-gradient(#ff5a0e, orange);
 }
 
 @media (max-width: 991px) {
